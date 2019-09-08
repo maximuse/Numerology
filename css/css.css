@@ -1,0 +1,18 @@
+label {
+    display: inline-block;
+    width: 100px;
+    margin: 5px 0;
+}
+
+label:after {
+    content: ": ";
+}
+
+input {
+    width: 150px;
+}
+
+button {
+    margin-top: 10px;
+    cursor: pointer;
+}
